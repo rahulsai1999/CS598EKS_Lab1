@@ -1,7 +1,7 @@
 # CS598EKS - Post-Lab 1 Assignments
 
-Pi Number: Pi8
-Canvas Group Number: 20
+- Pi Number: Pi8
+- Canvas Group Number: 20
 
 ## Members
 - Rahul Sai (rsr4)
